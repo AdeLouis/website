@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Louis Adedapo Gomez
+title: Louis Adedapo Gomez
 
-# Username (this should match the folder name)
-authors:
-- admin
+# Full name (for SEO)
+first_name: Louis
+last_name: Gomez
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,7 +21,7 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include d
+bio: AI/ML for Healthcare
 
 #interests:
 #- Machine Learning for Health
@@ -65,15 +65,15 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 # user_groups:
 # - Researchers
 # - Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 Hi there! My name is Louis Gomez, originally from Lagos, Nigeria. I am currently a Doctoral Student in Computer Science at the Stevens Institute of Technology. I am also a Research Assistant in the Health and AI Lab under the mentorship of [Dr. Samantha Kleinberg](http://www.skleinberg.org/).
